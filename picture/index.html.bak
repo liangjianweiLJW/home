@@ -15,7 +15,7 @@
 				background:gray;
 			}
 			#wrap{
-				width: 300px;
+				width: 215px;
 				height: 400px;
 				position: relative;
 				margin:100px auto;
